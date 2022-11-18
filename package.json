@@ -1,0 +1,7 @@
+{
+  "name": "cypress-cloud-debug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew Goldis <agoldis@gmail.com>",
+  "license": "MIT"
+}
